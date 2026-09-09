@@ -1,5 +1,8 @@
 # NeuralDrag
 
+## WORK IN PROGRESS
+
+----------------------------
 Training a graph neural network to approximate a CFD (computational fluid dynamics)
 simulation on car geometry, then using that trained, frozen network as a
 **differentiable proxy** to reshape a car by gradient descent instead of by
