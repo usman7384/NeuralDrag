@@ -519,8 +519,8 @@ this repository, which is a learning exercise built on top of them:
 
 ## Acknowledgments
 
-Built with the assistance of Claude (Anthropic) while learning computer-aided
-engineering and geometric deep learning. The AI assisted with implementation,
+Built with the assistance of Claude (Anthropic) while learning geometric deep learning for computer-aided
+engineering. The AI assisted with implementation,
 debugging, and the investigations documented above — the pressure-offset diagnosis,
 the Cd sign derivation, and the reference-area and shape-parameterization fixes in
 particular. The resulting design decisions, the verification approach, and their
