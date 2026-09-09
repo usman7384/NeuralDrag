@@ -1,0 +1,16 @@
+# Dataset -- not ours to redistribute, see README for the source citation
+processed-car-pressure-data/
+__MACOSX/
+
+# Python / venv
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Everything generated at runtime -- caches, checkpoints, logs, saved trajectories --
+# except the PNG figures the README embeds directly.
+outputs/*
+!outputs/figures/
+outputs/figures/*
+!outputs/figures/*.png

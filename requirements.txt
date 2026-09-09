@@ -1,0 +1,12 @@
+numpy
+scipy
+torch_geometric
+plyfile
+trimesh
+matplotlib
+plotly
+pillow
+scikit-learn
+tqdm
+ipykernel
+jupyter
