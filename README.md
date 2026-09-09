@@ -1,5 +1,3 @@
-<title>NeuralDrag</title>
-
 # NeuralDrag
 
 Training a graph neural network to approximate a CFD (computational fluid dynamics)
